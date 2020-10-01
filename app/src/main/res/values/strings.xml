@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">GDC-Multicamp</string>
+    <string name="warning">Uyarı !</string>
+    <string name="connection_failed">Lütfen internet bağlantınızı kontrol edip yeniden deneyiniz.</string>
+    <string name="okey">Tamam</string>
+    <string name="home_bar_title" translatable="false">GDG Multicamp</string>
+    <string name="content_description" translatable="false">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="about_me">Hakkımda</string>
+    <string name="my_name">~ Muhammed Emirhan Becit ~</string>
+    <string name="send_mail">Bir mail gönder</string>
+    <string name="follow_linkedin">Linkedin\'den takip et</string>
+    <string name="follow_instagram">İnstagram\'dan takip et</string>
+    <string name="not_found_mail_app">Email uygulaması bulunamadı.</string>
+    <string name="choose_mail_app">Bir mail uygulamasını seçiniz...</string>
+
+</resources>

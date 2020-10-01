@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GDC-Multicamp</string>
+    <string name="warning">Warning !</string>
+    <string name="connection_failed">Please check your internet connection and try again</string>
+    <string name="okey">Okey</string>
+    <string name="about_me">About Me</string>
+    <string name="my_name">~ Muhammed Emirhan Becit ~</string>
+    <string name="send_mail">"Send mail "</string>
+    <string name="follow_linkedin">Follow me from Linkedin</string>
+    <string name="follow_instagram">Follow me from Instagram</string>
+    <string name="not_found_mail_app">There are no email clients installed.</string>
+    <string name="choose_mail_app">Choose a mail application...</string>
+</resources>
